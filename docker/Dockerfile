@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     mingw-w64 \
     whiptail \
+    bear \
     liblzma-dev \
     vim \
     tmux \
