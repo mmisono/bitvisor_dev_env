@@ -1,3 +1,6 @@
 [submodule "ipxe"]
 	path = ipxe
 	url = git://git.ipxe.org/ipxe.git
+[submodule "bitvisor"]
+	path = bitvisor
+	url = https://github.com/matsu/bitvisor
